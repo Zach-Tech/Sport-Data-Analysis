@@ -1,0 +1,36 @@
+Unnamed: 0,Year,Player,Club,Goals,Appearances,Goal_per_Game_Ratio
+0,1992/93,franck sauzée,Olympique de Marseille,5.0,7.0,0.7142857142857143
+1,1993/94,hristo stoichkov,FC Barcelona,5.0,6.0,0.8333333333333334
+2,1994/95,george weah,Paris Saint-Germain,7.0,10.0,0.7
+3,1995/96,jari litmanen,AFC Ajax,9.0,10.0,0.9
+4,1996/97,milinko pantić,Club Atlético de Madrid,5.0,8.0,0.625
+5,1997/98,alessandro del piero,Juventus,10.0,10.0,1.0
+6,1998/99,andriy shevchenko,FC Dynamo Kyiv,8.0,10.0,0.8
+7,1998/99,dwight yorke,Manchester United FC,8.0,11.0,0.7272727272727273
+8,1999/00,mário jardel,FC Porto,10.0,13.0,0.7692307692307693
+9,1999/00,rivaldo,FC Barcelona,10.0,14.0,0.7142857142857143
+10,1999/00,raúl gonzález,Real Madrid CF,10.0,15.0,0.6666666666666666
+11,2000/01,raúl gonzález,Real Madrid CF,7.0,12.0,0.5833333333333334
+12,2001/02,ruud van nistelrooy,Manchester United FC,10.0,14.0,0.7142857142857143
+13,2002/03,ruud van nistelrooy,Manchester United FC,12.0,9.0,1.3333333333333333
+14,2003/04,fernando morientes,AS Monaco FC,9.0,12.0,0.75
+15,2004/05,ruud van nistelrooy,Manchester United FC,8.0,7.0,1.1428571428571428
+16,2005/06,andriy shevchenko,AC Milan,9.0,12.0,0.75
+17,2006/07,kaká,AC Milan,10.0,13.0,0.7692307692307693
+18,2007/08,cristiano ronaldo,Manchester United FC,8.0,11.0,0.7272727272727273
+19,2008/09,lionel messi,FC Barcelona,9.0,12.0,0.75
+20,2009/10,lionel messi,FC Barcelona,8.0,11.0,0.7272727272727273
+21,2010/11,lionel messi,FC Barcelona,12.0,13.0,0.9230769230769231
+22,2011/12,lionel messi,FC Barcelona,14.0,11.0,1.2727272727272727
+23,2012/13,cristiano ronaldo,Real Madrid CF,12.0,12.0,1.0
+24,2013/14,cristiano ronaldo,Real Madrid CF,17.0,11.0,1.5454545454545454
+25,2014/15,cristiano ronaldo,Real Madrid CF,10.0,12.0,0.8333333333333334
+26,2014/15,neymar,FC Barcelona 10 goals (12 appearances,0.0,0.0,
+27,2014/15,lionel messi,FC Barcelona,10.0,13.0,0.7692307692307693
+28,2015/16,cristiano ronaldo,Real Madrid CF,16.0,12.0,1.3333333333333333
+29,2016/17,cristiano ronaldo,Real Madrid CF,12.0,13.0,0.9230769230769231
+30,2017/18,cristiano ronaldo,Real Madrid CF,15.0,13.0,1.1538461538461537
+31,2018/19,lionel messi,FC Barcelona,12.0,10.0,1.2
+32,2019/20,robert lewandowski,FC Bayern München,15.0,10.0,1.5
+33,2020/21,erling haaland,Borussia Dortmund,10.0,8.0,1.25
+34,2021/22,karim benzema,Real Madrid CF,15.0,12.0,1.25
